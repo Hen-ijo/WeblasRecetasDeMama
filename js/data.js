@@ -29,7 +29,7 @@ export const data = {
       createdAt: "10 de Octubre 2024",
       imgAlt: "Imagen blog 1",
       imgReviewPath: "../assets/img/sanguche-de-milanesa.jpg",
-      description: `Disfrutá de nuestro sándwich de milanesa,bien crujiente y acompañado de ingredientes frescos que le dan un toque único.`,
+      description: `Disfrutá de nuestro sándwich de milanesa, bien crujiente y acompañado de ingredientes frescos que le dan un toque único.`,
     },
     {
       id: 2,
@@ -38,7 +38,7 @@ export const data = {
       imgAlt: "Imagen blog 2",
       imgReviewPath: "../assets/img/sopa-paraguaya.jpg",
 
-      description: `Probá nuestra sopa paraguaya casera, hecha con los mejores ingredientes para garantizar ese sabor auténtico que tanto te gusta`,
+      description: `Probá nuestra sopa paraguaya casera, hecha con los mejores ingredientes para garantizar ese sabor auténtico que tanto te gusta.`,
     },
     {
       id: 3,
@@ -46,7 +46,7 @@ export const data = {
       createdAt: "10 de Octubre 2024",
       imgAlt: "Imagen blog 3",
       imgReviewPath: "../assets/img/empanadas.jpg",
-      description: `Probá nuestras empanadas caseras recién horneadas o fritas, con una masa suave y rellenos generosos que explotan de sabor`,
+      description: `Probá nuestras empanadas caseras recién horneadas o fritas, con una masa suave y rellenos generosos que explotan de sabor.`,
     },
   ],
   bestProducts: [
